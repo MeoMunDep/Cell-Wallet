@@ -1,0 +1,13 @@
+{
+  "limit": 100,
+  "countdown": 300,
+  "country_time": "en-US",
+  "upgradeClick": 1,
+  "upgradeBonus": 1,
+  "upgradeEnergy": 1,
+  "upgradeMiningSpeed": 1,
+  "upgradeStorages": 1,
+  "dailyCombo": true,
+  "autoSolvingCombo": true,
+  "combo": ["cell", "phosphorus", "carbon", "sulfur"]
+}

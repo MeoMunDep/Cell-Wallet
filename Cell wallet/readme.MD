@@ -6,7 +6,7 @@ If you encounter any issues or have questions, feel free to reach out:
 - Group: t.me/KeoAirDropFreeNe
 - Channel: t.me/KeoAirDropFreeNee
 
-> > > Help me with your referral [Link](https://t.me/celLcoin_bot/app?startapp=6713068747)
+> Help me with your referral [Link](https://t.me/celLcoin_bot/app?startapp=6713068747)
 
 ## 🚀 Getting Started
 
@@ -52,6 +52,7 @@ To get started with the bot, follow these steps:
   "upgradeEnergy": 1,
   "upgradeMiningSpeed": 1,
   "upgradeStorages": 1, // how many upgrades you want to
+  "isDoTasks": true,
   "dailyCombo": true, // do you want to do daily combo
   "autoSolvingCombo": false, //do you want to automatically solve the combo
   "limit": 5, //number of accounts run 1 a row
@@ -61,7 +62,7 @@ To get started with the bot, follow these steps:
 }
 ```
 
-### 2. `datas.txt` 🗂️
+### 2. `datas.txt` 🗂️ - Get it from here >>> [Link](https://t.me/KeoAirDropFreeNe/257/6879)
 
 ```txt
 query_id.../user...
@@ -90,5 +91,3 @@ http://user:password@host:port
     To run the bot, use the following command: node 1
 
 🎇Enjoy!
-
-

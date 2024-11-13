@@ -7,6 +7,7 @@
   "upgradeEnergy": 1,
   "upgradeMiningSpeed": 1,
   "upgradeStorages": 1,
+  "isDoTasks": true,
   "dailyCombo": true,
   "autoSolvingCombo": true,
   "combo": ["cell", "phosphorus", "carbon", "sulfur"]

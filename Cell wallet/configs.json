@@ -2,6 +2,7 @@
   "limit": 100,
   "countdown": 300,
   "country_time": "en-US",
+  "delayEachAccount": [1, 81],
   "upgradeClick": 1,
   "upgradeBonus": 1,
   "upgradeEnergy": 1,

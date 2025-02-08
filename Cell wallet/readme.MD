@@ -74,6 +74,7 @@ query_id.../user...
 ```
 
 ### 3. `wallets.txt` 💼
+- Wallets generator: [Link](https://github.com/MeoMunDep/Automatic-Ultimate-Create-Wallets-for-Airdrop)
 
 ```txt - wallet address
 abc...xyz
@@ -99,7 +100,7 @@ http://user:password@host:port
 
 2. Run the bot using the following command:
    ```bash
-   node bot
+   node meomundep
    ```
 
 🎇Enjoy!

@@ -8,6 +8,9 @@ If you encounter any issues or have questions, feel free to reach out:
 
 > Help me with your referral [Link](https://t.me/celLcoin_bot/app?startapp=6713068747)
 
+
+> 📱 **For Mobile Users (Termux):** [View the guide here](https://github.com/MeoMunDep/Guides-for-using-my-script-on-termux)
+
 ## 🚀 Getting Started
 
 To get started with the bot, follow these steps:
@@ -22,7 +25,7 @@ To get started with the bot, follow these steps:
 1. **Install Dependencies and Modules:**
 
    ```
-   npm i; npm i user-agents cloudscraper axios colors p-limit https-proxy-agent
+   npm i user-agents cloudscraper axios colors https-proxy-agent
    ```
 
 2. **Prepare Configuration Files:**
@@ -85,11 +88,19 @@ abc...xyz
 
 ### 4. `proxies.txt` 🌐
 
+- [Get it from here](https://www.webshare.io/?referral_code=4l5kb3glsce7)
+
 ```txt
-http://user:password@host:port
-http://user:password@host:port
-http://user:password@host:port
+http://host:port
+https://host:port
+socks4://host:port
+socks5://host:port
+http://user:pass@host:port
+https://user:pass@host:port
+socks4://user:pass@host:port
+socks5://user:pass@host:port
 ```
+
 
 💡 Usage:
 

@@ -1,0 +1,1 @@
+console.log(`Close this game since the dev is disappear =]`)

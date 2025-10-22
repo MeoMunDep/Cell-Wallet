@@ -2,9 +2,9 @@
 
 If you encounter any issues or have questions, feel free to reach out:
 
-- Contact: t.me/MeoMunDep
-- Group: t.me/KeoAirDropFreeNe
-- Channel: t.me/KeoAirDropFreeNee
+- Contact: https://t.me/MeoMunDep
+- Group: https://t.me/KeoAirDropFreeNe
+- Channel: https://t.me/KeoAirDropFreeNee
 
 Help me with your referral [Link](https://t.me/celLcoin_bot/app?startapp=6713068747)
 

@@ -6,10 +6,9 @@ If you encounter any issues or have questions, feel free to reach out:
 - Group: t.me/KeoAirDropFreeNe
 - Channel: t.me/KeoAirDropFreeNee
 
-> Help me with your referral [Link](https://t.me/celLcoin_bot/app?startapp=6713068747)
+Help me with your referral [Link](https://t.me/celLcoin_bot/app?startapp=6713068747)
 
-
-> 📱 **For Mobile Users (Termux):** [View the guide here](https://github.com/MeoMunDep/Guides-for-using-my-script-on-termux)
+📱 **For Mobile Users (Termux):** [View the guide here](https://github.com/MeoMunDep/Guides-for-using-my-script-on-termux)
 
 ## 🚀 Getting Started
 
@@ -25,7 +24,7 @@ To get started with the bot, follow these steps:
 1. **Install Dependencies and Modules:**
 
    ```
-   npm i user-agents cloudscraper axios colors https-proxy-agent
+   npm i user-agents cloudscraper axios cmeo-forkcy-colors meo-forkcy-proxy meo-forkcy-logger meo-forkcy-utils
    ```
 
 2. **Prepare Configuration Files:**
@@ -63,7 +62,6 @@ To get started with the bot, follow these steps:
   "autoSolvingCombo": false, //do you want to automatically solve the combo
   "limit": 5, //number of accounts run 1 a row
   "countdown": 300, //time to restarts all the accounts - count by seconds
-  "country_time": "vi-VN", //timestamp base on the country
   "upgrades": true
 }
 ```
@@ -107,7 +105,7 @@ socks5://user:pass@host:port
 1. Navigate to the folder containing the bot files:
 
    ```bash
-   cd /path/to/bot-folder
+   cd /path/to/cell-wallet
    ```
 
 2. Run the bot using the following command:

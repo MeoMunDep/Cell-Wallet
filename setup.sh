@@ -35,7 +35,6 @@ create_default_configs() {
 {
   "limit": 100,
   "countdown": 300,
-  "country_time": "en-US",
   "upgradeClick": 1,
   "upgradeBonus": 1,
   "upgradeEnergy": 1,
@@ -77,7 +76,7 @@ print_green "Configuration files have been checked."
 
 print_yellow "Checking dependencies..."
 cd "$MODULES_DIR"
-npm install user-agents axios colors https-proxy-agent socks-proxy-agent 
+npm install user-agents axios meo-forkcy-colors meo-forkcy-proxy meo-forkcy-logger meo-forkcy-utils
 cd - > /dev/null
 print_green "Dependencies installation completed!"
 
